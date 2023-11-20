@@ -11,7 +11,7 @@ body {
 /*ふきだしの背景色変更*/
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {
   background: #ff9500;
-  color: #FFF;
+  color: #ffffff;
 }
 
 img {
